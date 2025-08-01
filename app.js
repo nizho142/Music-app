@@ -1,6 +1,7 @@
 const music = new Audio('vande.mp3');
 
-// create Array 
+// create Array  the  commit
+const music = new Audio('vande.mp3');
 
 const songs = [
     {
@@ -300,4 +301,5 @@ left_scrolls.addEventListener('click', ()=>{
 })
 right_scrolls.addEventListener('click', ()=>{
     item.scrollLeft += 330;
+
 })
